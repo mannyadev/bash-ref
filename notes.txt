@@ -1,0 +1,5 @@
+Script Interpreter Specification  => #!/bin/bash
+
+Executable Permissions  => 755 (everyone can execute)
+                        => 700 (owner can execute)
+                        eg.) chmod 755 <script>
